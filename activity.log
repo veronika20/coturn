@@ -145,3 +145,4 @@
 2025-12-12 19:25:00 | DEBUG | repo=coturn | action=commit
 2025-05-11 13:05:00 | DEBUG | repo=coturn | action=commit
 2025-01-16 14:38:00 | DEBUG | repo=coturn | action=commit
+2025-02-25 19:35:00 | WARN | repo=coturn | action=commit
