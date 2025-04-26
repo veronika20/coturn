@@ -60,3 +60,5 @@
 2025-06-21 08:04:00 | DEBUG | repo=coturn | action=commit
 2025-08-10 08:58:00 | INFO | repo=coturn | action=commit
 2025-12-14 09:42:00 | INFO | repo=coturn | action=commit
+2025-02-02 17:47:00 | DEBUG | repo=coturn | action=edit | files=2
+2025-04-26 13:15:00 | WARN | repo=coturn | action=commit
