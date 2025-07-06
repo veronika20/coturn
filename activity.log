@@ -90,3 +90,6 @@
 2025-05-21 12:33:00 | WARN | repo=coturn | action=commit
 2025-12-11 08:36:00 | INFO | repo=coturn | action=commit
 2025-09-26 08:56:00 | DEBUG | repo=coturn | action=commit
+2025-06-28 16:31:00 | WARN | repo=coturn | action=edit | files=4
+2025-01-01 20:11:00 | DEBUG | repo=coturn | action=pull
+2025-07-06 10:06:00 | DEBUG | repo=coturn | action=commit
