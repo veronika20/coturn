@@ -191,3 +191,5 @@
 2025-12-16 18:52:00 | INFO | repo=coturn | action=commit
 2025-05-19 21:08:00 | INFO | repo=coturn | action=edit | files=2
 2025-11-26 07:48:00 | INFO | repo=coturn | action=commit
+2025-10-26 12:12:00 | INFO | repo=coturn | action=edit | files=2
+2025-11-20 19:35:00 | WARN | repo=coturn | action=commit
